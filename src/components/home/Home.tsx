@@ -1,4 +1,4 @@
-import Image from "next/image";
+"use server";
 import React from "react";
 import ContentCard from "../contentCard/ContentCard";
 import { homeContent } from "../../utils/constant";

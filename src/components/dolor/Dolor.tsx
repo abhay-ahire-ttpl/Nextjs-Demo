@@ -1,3 +1,4 @@
+"use server";
 import React from "react";
 import ContentCard from "../contentCard/ContentCard";
 import { dolorContent } from "../../utils/constant";

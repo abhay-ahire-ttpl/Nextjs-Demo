@@ -1,3 +1,4 @@
+"use server";
 import React from "react";
 
 const Card = ({ children, id }: { children: React.ReactNode; id: string }) => {
